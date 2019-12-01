@@ -69,10 +69,11 @@ ul.topnav li a:hover:not(.active) {
   background: none;
   text-align: center;
   text-shadow: 5px 5px 10px lightgray;
-  font-size: xx-large;
   color: #D9D8D2;
   margin: auto;
   padding-top: 17%;
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 @media screen and (max-width: 600px) {
