@@ -2,7 +2,7 @@
 
 I believe it's incredibly important to learn new skills as well as sharpen existing ones. I am always on the lookout for beautiful features and functions, so I always take the time to check out the portfolios and projects of my peers and mentors. I gained wonderful inspiration from everyones work.
 
-The main feature on this site that I wanted to learn how to do is the parallax scrolling effect. I think it's a great way to portray many different beautiful high resolution photos on one page. 
+The main feature on this site that I wanted to learn how to do is the parallax scrolling effect. I think it's a great way to portray many different beautiful high resolution photos on one page. It's created with CSS styling effects.
 
 Then, of course, I had to add some JavaScript functionality.
 
